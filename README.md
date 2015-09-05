@@ -1,6 +1,7 @@
 # Birthday-Cake
 This code bakes a birthday cake for someone special to whom you wanna surprise on his/her birthday
 
+Description	
 Steps to be followed:
 
 1. Extract .rar file Birthday_gift and run Birthday_gift.m
@@ -36,3 +37,5 @@ Steps to be followed:
 %
 
 NB: It is recommended to run this code on PC having resolution of atleast 1024x768 and keep PC speakers ON
+
+MATLAB release	MATLAB 7.10 (R2010a)
